@@ -18,6 +18,13 @@ body {
 	padding: 0px;
 	margin: 0px;
 	font-family: 'TT Norms', sans-serif;
+	background-color: #34393e;
+}
+.locked {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    pointer-events: none;
 }
 .konsekudag {
   background-color: #0c6fa7;
@@ -328,6 +335,9 @@ hr {
 }
 
 .staff-card4 img {
+	border-radius: 1em;
+}
+.staff-card4 iframe {
 	border-radius: 1em;
 }
 @media (max-width: 1200px) {
