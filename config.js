@@ -3,7 +3,7 @@
  * License - https://olliejw.me/tos
  */
 
-var server_name = "MomentariyModder";
+var server_name = "Vorinvyd";
 var server_ip = "Version 3.0: R6";
 var server_port = 25565;
 var ip_copied = "IP copied!";
